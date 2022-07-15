@@ -1,0 +1,20 @@
+[
+  {
+    "title": "galletas opera",
+    "price": 200,
+    "thumbnail": "https://images.com(opera",
+    "id": 1
+  },
+  {
+    "title": "galletas mana",
+    "price": 220,
+    "thumbnail": "https://images.com(mana",
+    "id": 2
+  },
+  {
+    "title": "galletas traviata",
+    "price": 240,
+    "thumbnail": "https://images.com(traviata",
+    "id": 3
+  }
+]
